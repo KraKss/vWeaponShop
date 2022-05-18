@@ -1,3 +1,9 @@
+  _  __         _  __       
+ | |/ /_ _ __ _| |/ / ______
+ | ' <| '_/ _` | ' < (_-<_-<
+ |_|\_\_| \__,_|_|\_\/__/__/
+                            
+
 local weaOpen = false
 local unFreezed = false
 local propsHeading = 0
